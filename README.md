@@ -15,9 +15,11 @@
 
 ## 1 - Qu'est-ce que Kotlin ? - [Haut de page](#top) <a name="1"></a>
 
-- [KOTLIN VS JAVA - Quel langage pour débuter le développement Android ?](https://www.youtube.com/watch?v=Vw7YmpZMW10)
+Je vous met à disposition une petite vidéo ci-dessous détaillant la différence entre Kotlin et Java.
 
-### 1.1 - Apprentissage - [Haut de page](#top) <a name="1-1"></a>
+➡️ [KOTLIN VS JAVA - Quel langage pour débuter le développement Android ?](https://www.youtube.com/watch?v=Vw7YmpZMW10) ⬅️
+
+### 1.1 - Apprentissage - [Haut de page](#top) <a name="1-1"></a>
 
 #### 1.1.1 - Formation au format text - [Haut de page](#top) <a name="1-1-1"></a>
 
