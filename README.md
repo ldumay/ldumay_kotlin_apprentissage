@@ -3,13 +3,13 @@
 ## Sommaire
 
 - [1 - Qu'est-ce que Kotlin ?](#1)
-	- [1.1 - Apprentissage](#1)
-		- [1.1.1 - Formation au format text](#1)
-		- [1.1.2 - Formation au format vidéo](#1)
-	- [1.2 - Configuration et dépendances via Gradle](#1)
-		- [1.2.1 - Gradle Groovy ou Gradle Kotlin avec DSL ?](#1)
-		- [1.2.2 - Donc,](#1)
-		- [1.2.3 - Comparaison des codes Gradle Groovy ou Gradle Kotlin DSL](#1)
+	- [1.1 - Apprentissage](#1-1)
+		- [1.1.1 - Formation au format text](#1-1-1)
+		- [1.1.2 - Formation au format vidéo](#1-1-2)
+	- [1.2 - Configuration et dépendances via Gradle](#1-2)
+		- [1.2.1 - Gradle Groovy ou Gradle Kotlin avec DSL ?](#1-2-1)
+		- [1.2.2 - Donc,](#1-2-2)
+		- [1.2.3 - Comparaison des codes Gradle Groovy ou Gradle Kotlin DSL](#1-2-3)
 - [2 - Projets](#2)
 	- [2.1 - Projets de démonstration](#2-1)
 
