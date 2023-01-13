@@ -40,8 +40,9 @@ Merci Wiképdia 😎 [➡️ Wiképdia - Gradle](https://fr.wikipedia.org/wiki/G
 ### 2.2 - Configuration et dépendances via Gradle - [Haut de page](#top) <a name="2-2"></a>
 
 Sources : 
-	- [](https://proandroiddev.com/migrate-from-groovy-to-kotlin-dsl-951266f3c072)
-	- [Gradle Kotlin vs. Groovy DSL (side-by-side comparison)](https://www.youtube.com/watch?v=ErdH9mQySQQ)
+
+- [Migrate from Groovy to Kotlin DSL](https://proandroiddev.com/migrate-from-groovy-to-kotlin-dsl-951266f3c072)
+- [Gradle Kotlin vs. Groovy DSL (side-by-side comparison)](https://www.youtube.com/watch?v=ErdH9mQySQQ)
 
 
 #### 2.2.1 - Gradle Groovy ou Gradle Kotlin avec DSL ? - [Haut de page](#top) <a name="2-2-1"></a>
@@ -87,7 +88,7 @@ Image de Comparaison de codes Gradle Groovy ou Gradle Kotlin DSL ci-dessus.
 	- [Get started with Kotlin/JVM](https://kotlinlang.org/docs/jvm-get-started.html)
 - [Learn Kotlin by Example](https://play.kotlinlang.org/byExample/overview)
 
-### 3.1 - Formation au format vidéo - [Haut de page](#top) <a name="3-2"></a>
+### 3.2 - Formation au format vidéo - [Haut de page](#top) <a name="3-2"></a>
 
 - [Kotlin pour débutants: les bases pour débuter dans le mobile sous Android](https://www.youtube.com/playlist?list=PLhK6H-zs_Wy34nIAiL853S4pxmwI9mObW)
 - [Grafikart Live - Apprentissage de Kotlin/Android](https://www.youtube.com/playlist?list=PLBgE6RNLJNqTx1FzHUC4xHs1qPKBbzw9w)
