@@ -98,3 +98,5 @@ Image de Comparaison de codes Gradle Groovy ou Gradle Kotlin DSL ci-dessus.
 ### 4.1 - Projets de démonstration - [Haut de page](#top) <a name="4-1"></a>
 
 - App - 1 - Menu - USSD : [/App_1_Menu_USSD](/App_1_Menu_USSD)
+	- JVM : 1.7.21
+	- JDK : 17
