@@ -19,14 +19,14 @@
 
 ### 1.1 - Apprentissage - [Haut de page](#top) <a name="1-1"></a>
 
-#### 1.1.1 - Formation au format text - [Haut de page](#top) <a name="1-1-1"></a>
+#### 1.1.1 - Formation au format text - [Haut de page](#top) <a name="1-1-1"></a>
 
 - [kotlinlang.org](https://kotlinlang.org)
 	- [Getting Started](https://kotlinlang.org/docs/getting-started.html)
 	- [Get started with Kotlin/JVM](https://kotlinlang.org/docs/jvm-get-started.html)
 - [Learn Kotlin by Example](https://play.kotlinlang.org/byExample/overview)
 
-#### 1.1.2 - Formation au format vidéo - [Haut de page](#top) <a name="1-1-2"></a>
+#### 1.1.2 - Formation au format vidéo - [Haut de page](#top) <a name="1-1-2"></a>
 
 - [Kotlin pour débutants: les bases pour débuter dans le mobile sous Android](https://www.youtube.com/playlist?list=PLhK6H-zs_Wy34nIAiL853S4pxmwI9mObW)
 - [Grafikart Live - Apprentissage de Kotlin/Android](https://www.youtube.com/playlist?list=PLBgE6RNLJNqTx1FzHUC4xHs1qPKBbzw9w)
