@@ -14,8 +14,8 @@ Je m'appuie aussi sur mes connaissances Java.
 		- [2.2.2 - Donc,](#2-2-2)
 		- [2.2.3 - Comparaison des codes Gradle Groovy ou Gradle Kotlin DSL](#2-2-3)
 - [3 - Apprentissage de Kotlin](#3)
-		- [3.1 - Formation au format text](#3-1)
-		- [3.2 - Formation au format vidéo](#3-2)
+	- [3.1 - Formation au format text](#3-1)
+	- [3.2 - Formation au format vidéo](#3-2)
 - [4 - Projets](#4)
 	- [4.1 - Projets de démonstration](#4-1)
 
