@@ -65,7 +65,9 @@ Nous pouvons avoir quelques avantages à choisir le DSL Kotlin plutôt que Groov
 - Supporte actuellement des accesseurs de modèle sûrs pour les configurations de dépendances et d'artefacts, les ensembles de sources, etc.
 - Mais cela peut être un peu plus lent dans certaines situations comme le nettoyage, les changements liés au répertoire buildSrc, etc.
 
-#### 1.2.3 - Comparaison des codes Gradle Groovy ou Gradle Kotlin DSL - [Haut de page](#top) <a name="1-2-3"></a>
+#### 1.2.3 - Comparaison de codes Gradle Groovy ou Gradle Kotlin DSL - [Haut de page](#top) <a name="1-2-3"></a>
+
+Image de Comparaison de codes Gradle Groovy ou Gradle Kotlin DSL
 
 ![img](Kotlin/001.png)
 
