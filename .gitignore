@@ -1,0 +1,6 @@
+## IDE
+**.idea
+**.vscode
+
+## Dépendances Gradle
+**.gradle
