@@ -16,6 +16,9 @@ dependencies {
     // https://mvnrepository.com/artifact/io.github.cdimascio/dotenv-java
     implementation("io.github.cdimascio:dotenv-kotlin:6.4.0")
 
+    // https://mvnrepository.com/artifact/com.google.code.gson/gson
+    implementation("com.google.code.gson:gson:2.10.1")
+
     testImplementation(kotlin("test"))
 }
 

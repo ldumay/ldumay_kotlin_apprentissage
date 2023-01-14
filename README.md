@@ -111,6 +111,7 @@ Je n'ai pas en vu :
 	- JDK : 17
 	- Dépendances :
 		- dotenv - source : [dotenv-kotlin](https://github.com/cdimascio/dotenv-kotlin)
+		- json - source : [Kotlin – Convert object to/from JSON string using Gson](https://www.bezkoder.com/kotlin-parse-json-gson/)
 - ❌ App - 3 - Vaadin Small : [/App_3_Vaadin_Small](/App_3_Vaadin_Small)
 	- JVM : 1.7.21
 	- JDK : 17
