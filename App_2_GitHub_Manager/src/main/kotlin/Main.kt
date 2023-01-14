@@ -79,9 +79,8 @@ fun getDatasToGitHubAPI(url: String): Any? {
     val responseCode = con.responseCode
     println("Le code de retour de l'API GitHub est : " + responseCode)
 
-    //Récupération des données de l'API GitHub
-    val `in` = con.inputStream
-    val input = `in`.bufferedReader().use { it.readText() }
+    //Récupération des données de l'API GitHub au format JSON
+    val input = con.inputStream.bufferedReader().use { it.readText() }
 
     var datasString = input
     var datasJSON = stringToJSON(input)
