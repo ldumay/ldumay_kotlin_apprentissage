@@ -19,6 +19,9 @@ dependencies {
     // https://mvnrepository.com/artifact/com.google.code.gson/gson
     implementation("com.google.code.gson:gson:2.10.1")
 
+    // https://mvnrepository.com/artifact/com.beust/klaxon
+    implementation("com.beust:klaxon:5.6")
+
     testImplementation(kotlin("test"))
 }
 

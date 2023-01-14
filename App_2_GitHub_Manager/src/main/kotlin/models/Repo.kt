@@ -1,3 +1,5 @@
+package models
+
 class Repo(
     val id:Int,
     val node_id: String,
@@ -82,7 +84,7 @@ class Repo(
     val default_branch: String
 ) {
     override fun toString(): String {
-        return "Repo ["+
+        return "models.Repo ["+
             "id: ${this.id},"+
             "node_id: ${this.node_id},"+
             "name: ${this.name},"+

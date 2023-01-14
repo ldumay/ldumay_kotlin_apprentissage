@@ -1,6 +1,7 @@
 import com.google.gson.Gson
 import io.github.cdimascio.dotenv.Dotenv
 import io.github.cdimascio.dotenv.dotenv
+import utils.UtilsConvertersGoogleGson.Companion.stringToJSON
 import java.net.HttpURLConnection
 import java.net.URL
 
@@ -82,20 +83,21 @@ fun getDatasToGitHubAPI(url: String): Any? {
     val `in` = con.inputStream
     val input = `in`.bufferedReader().use { it.readText() }
 
-    val gson = Gson()
-    val arrayTutorialType = object : TypeToken<Array<Repo>>() {}.type
-    var tutorials: Array<Repo> = gson.fromJson(jsonList, arrayTutorialType)
-    var datas = JSONObject(input)
+    var datasString = input
+    var datasJSON = stringToJSON(input)
 
-    if(responseCode == 200 && datas != null) {
+    if(responseCode == 200 && input != null && datasString != null && datasJSON != null) {
         println("Les données de l'API GitHub sont disponibles.")
 
         //Affichage des données de l'API GitHub
         println("""
             Données obtenues :
-            - type : ${datas::class.simpleName}
-            - taille : ${datas.length}
-            - contenu : \n${datas}
+            - datasString
+                - type : ${datasString::class.simpleName}
+                - taille : ${datasString.length}
+                - contenu : \n${datasString}
+            - datasJSON
+                - type : ${datasJSON::class.simpleName}
         """.trimIndent())
     } else {
         println("Les données de l'API GitHub ne sont pas disponibles.")
@@ -105,5 +107,5 @@ fun getDatasToGitHubAPI(url: String): Any? {
     con.disconnect()
 
     //Retour des données de l'API GitHub
-    return datas
+    return datasJSON
 }

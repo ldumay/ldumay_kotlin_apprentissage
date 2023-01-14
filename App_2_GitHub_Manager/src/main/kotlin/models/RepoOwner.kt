@@ -1,3 +1,5 @@
+package models
+
 class RepoOwner (
     val login: String,
     val id: Int,
@@ -19,7 +21,7 @@ class RepoOwner (
     val site_admin: Boolean
 ){
     override fun toString(): String {
-        return "RepoOwner ["+
+        return "models.RepoOwner ["+
             "login: ${this.login},"+
             "id: ${this.id},"+
             "node_id: ${this.node_id},"+
