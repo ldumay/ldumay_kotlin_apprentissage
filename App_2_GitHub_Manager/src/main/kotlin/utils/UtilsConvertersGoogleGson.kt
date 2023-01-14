@@ -3,14 +3,14 @@ package utils
 import com.google.gson.Gson
 
 class UtilsConvertersGoogleGson {
-
-    /**
-     * Convert a string to a JSON object
-     * Moteur - Gson by Google : https://github.com/google/gson/blob/master/UserGuide.md
-     * @param string The string to convert
-     * @return The JSON object
-     */
     companion object {
+
+        /**
+         * Convert a string to a JSON object
+         * Moteur - Gson by Google : https://github.com/google/gson/blob/master/UserGuide.md
+         * @param string The string to convert
+         * @return The JSON object
+         */
         @JvmStatic
         fun stringToJSON(text: String): Any? {
             var datas: Any? = null
@@ -42,5 +42,6 @@ class UtilsConvertersGoogleGson {
             }
             return datas
         }
+
     }
 }
