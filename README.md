@@ -90,13 +90,29 @@ Image de Comparaison de codes Gradle Groovy ou Gradle Kotlin DSL ci-dessus.
 
 ### 3.2 - Formation au format vidéo - [Haut de page](#top) <a name="3-2"></a>
 
-- [Kotlin pour débutants: les bases pour débuter dans le mobile sous Android](https://www.youtube.com/playlist?list=PLhK6H-zs_Wy34nIAiL853S4pxmwI9mObW)
+J'ai vu :
+
+- Débutant - [Kotlin pour débutants: les bases pour débuter dans le mobile sous Android](https://www.youtube.com/playlist?list=PLhK6H-zs_Wy34nIAiL853S4pxmwI9mObW)
+- Avancé - [Formation complète Kotlin](https://www.youtube.com/playlist?list=PLrMZu04URlekwRBLUXJuVAXOSinY_hAh1)
+
+Je n'ai pas en vu :
+
 - [Grafikart Live - Apprentissage de Kotlin/Android](https://www.youtube.com/playlist?list=PLBgE6RNLJNqTx1FzHUC4xHs1qPKBbzw9w)
 
 ## 4 - Projets - [Haut de page](#top) <a name="4"></a>
 
 ### 4.1 - Projets de démonstration - [Haut de page](#top) <a name="4-1"></a>
 
-- App - 1 - Menu - USSD : [/App_1_Menu_USSD](/App_1_Menu_USSD)
+- ✅ App - 1 - Menu - USSD : [/App_1_Menu_USSD](/App_1_Menu_USSD)
 	- JVM : 1.7.21
 	- JDK : 17
+- ✅ App - 2 - GitHub Manager : [/App_2_GitHub_Manager](/App_2_GitHub_Manager)
+	- JVM : 1.7.21
+	- JDK : 17
+	- Dépendances :
+		- dotenv - source : [dotenv-kotlin](https://github.com/cdimascio/dotenv-kotlin)
+- ❌ App - 3 - Vaadin Small : [/App_3_Vaadin_Small](/App_3_Vaadin_Small)
+	- JVM : 1.7.21
+	- JDK : 17
+		- pistes : 
+			- [for start](https://vaadin.com/docs/v14/flow/guide/start/kotlin)
